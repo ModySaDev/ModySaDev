@@ -1,1 +1,11 @@
-align_center($string) [![GitHub Streak](https://streak-stats.demolab.com?user=ModySaDev&theme=black-ice&border_radius=5.5&date_format=j%2Fn%5B%2FY%5D&exclude_days=Mon%2CFri)](https://git.io/streak-stats)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges/poser": "^2.3" align="center">     
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
+<div id="header" align="right">
+  </div>
